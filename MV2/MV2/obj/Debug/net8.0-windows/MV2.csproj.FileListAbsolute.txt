@@ -1,0 +1,17 @@
+C:\Users\Yura\source\repos\Yuriy1254\P2Pmesanger\MV2\MV2\obj\Debug\net8.0-windows\MV2.Form1.resources
+C:\Users\Yura\source\repos\Yuriy1254\P2Pmesanger\MV2\MV2\obj\Debug\net8.0-windows\MV2.csproj.GenerateResource.cache
+C:\Users\Yura\source\repos\Yuriy1254\P2Pmesanger\MV2\MV2\obj\Debug\net8.0-windows\MV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yura\source\repos\Yuriy1254\P2Pmesanger\MV2\MV2\obj\Debug\net8.0-windows\MV2.AssemblyInfoInputs.cache
+C:\Users\Yura\source\repos\Yuriy1254\P2Pmesanger\MV2\MV2\obj\Debug\net8.0-windows\MV2.AssemblyInfo.cs
+C:\Users\Yura\source\repos\Yuriy1254\P2Pmesanger\MV2\MV2\obj\Debug\net8.0-windows\MV2.csproj.CoreCompileInputs.cache
+C:\Users\Yura\source\repos\Yuriy1254\P2Pmesanger\MV2\MV2\obj\Debug\net8.0-windows\MV2.sourcelink.json
+C:\Users\Yura\Source\Repos\Yuriy1254\P2Pmesanger\MV2\MV2\bin\Debug\net8.0-windows\MV2.exe
+C:\Users\Yura\Source\Repos\Yuriy1254\P2Pmesanger\MV2\MV2\bin\Debug\net8.0-windows\MV2.deps.json
+C:\Users\Yura\Source\Repos\Yuriy1254\P2Pmesanger\MV2\MV2\bin\Debug\net8.0-windows\MV2.runtimeconfig.json
+C:\Users\Yura\Source\Repos\Yuriy1254\P2Pmesanger\MV2\MV2\bin\Debug\net8.0-windows\MV2.dll
+C:\Users\Yura\Source\Repos\Yuriy1254\P2Pmesanger\MV2\MV2\bin\Debug\net8.0-windows\MV2.pdb
+C:\Users\Yura\Source\Repos\Yuriy1254\P2Pmesanger\MV2\MV2\obj\Debug\net8.0-windows\MV2.dll
+C:\Users\Yura\Source\Repos\Yuriy1254\P2Pmesanger\MV2\MV2\obj\Debug\net8.0-windows\refint\MV2.dll
+C:\Users\Yura\Source\Repos\Yuriy1254\P2Pmesanger\MV2\MV2\obj\Debug\net8.0-windows\MV2.pdb
+C:\Users\Yura\Source\Repos\Yuriy1254\P2Pmesanger\MV2\MV2\obj\Debug\net8.0-windows\MV2.genruntimeconfig.cache
+C:\Users\Yura\Source\Repos\Yuriy1254\P2Pmesanger\MV2\MV2\obj\Debug\net8.0-windows\ref\MV2.dll
